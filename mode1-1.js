@@ -15,3 +15,10 @@ var weight = 4518
 var hasFullSizeBed = false
 var hasTowHitch = true
 var has4wd = true
+//
+variables that use arrays
+//
+var extras = ['bed liner', 'stereo', 'fog lights']
+var dingsAndDents = ['tailgate', 'front passenger side', 'rear driver side']
+var recentWork = ['front struts', 'front brakes', 'front left bearings']
+//
